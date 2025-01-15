@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: black;
+    font-family: sans-serif;
+}
+#tasklist::-webkit-scrollbar{
+    display: none;
+}
